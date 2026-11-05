@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-multi-currency-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-multi-currency",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_multi_currency_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/multi-currency.md",
+  "presentationPlan": "projects/accounting/flutter/multi-currency.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
